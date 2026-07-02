@@ -158,4 +158,3 @@ This project demonstrates how exploratory data analysis can be used to uncover t
 ## Author
 **Aditya Singh**  
 MANIT Bhopal  
-Data Analytics / Supply Chain / Business Intelligence Enthusiast
